@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+
 /*CSS syntax:
 
 selector {
@@ -18,4 +20,10 @@ selector {
     
     font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
     color: #000000;
+  }
+  
+  .milk-text {
+    font: bold 2.6em, 'Clicker Script', cursive;
+    color: white;
+    text-shadow: 0 2px;
   }
