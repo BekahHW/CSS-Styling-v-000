@@ -1,1 +1,9 @@
-/*This is a comment*/
+/*CSS syntax:
+
+selector {
+  property: value;
+  */
+  
+  p {
+    font-sie: 16px; 
+  }
